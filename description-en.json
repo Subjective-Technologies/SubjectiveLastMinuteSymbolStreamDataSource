@@ -1,4 +1,5 @@
 {
+  "description": "Streams Binance ticker updates, buffers symbol snapshots, and periodically writes consolidated candle/context records to a single output file.",
   "domainCategory": "Trading",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Last Minute Symbol Stream",
-      "text": "Subjective datasource implementation for SubjectiveLastMinuteSymbolStreamDataSource.",
+      "text": "Streams Binance ticker updates, buffers symbol snapshots, and periodically writes consolidated candle/context records to a single output file.",
       "image": {
         "src": "/subjective_binance_last_minute_symbol_stream_datasource/icon.svg",
         "alt": "Last Minute Symbol Stream icon"
